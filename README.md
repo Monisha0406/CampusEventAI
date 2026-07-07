@@ -116,3 +116,4 @@ Managing college events manually is time-consuming and often leads to registrati
 - Analytics Dashboard
 - Mobile Application
 
+Link: https://aicampusevent.onrender.com
