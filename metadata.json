@@ -1,0 +1,6 @@
+{
+  "name": "CampusEvent AI",
+  "description": "An AI-powered event management platform for college symposiums with real-time registrations, AI assistant, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
